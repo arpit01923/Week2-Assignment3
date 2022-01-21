@@ -24,42 +24,34 @@
     margin: 10px;
 }
 
-.container section .div1_primary{
-    margin: 10px 0px;
-    padding: 5px;
+.div1_primary{
     color: blueviolet;
     background-color: #e2e8f0;
 }
-.container section .div1_primary img{
-    height: 20px;
-    width: 20px;
-    margin-top: 5px;
+.div1_primary img{
     margin-right: 15px;
 }
 
-.container section .div2_secondary{
+
+.div2_secondary{
     margin: 15px 0px;
 }
-.container section .div2_secondary img{
-    height: 20px;
-    width: 20px;
+.div2_secondary img{
     margin-right: 15px;
 }
 
-.container section .div3_secondary{
+
+.div3_secondary{
     margin: 15px 0px;
 }
-.container section .div3_secondary img{
-    height: 15px;
-    width: 20px;
+.div3_secondary img{
     margin-right: 15px;
 }
 
-.container section .div4_secondary{
+
+.div4_secondary{
     margin: 15px 0px;
 }
-.container section .div4_secondary img{
-    height: 20px;
-    width: 20px;
+.div4_secondary img{
     margin-right: 15px;
 }
