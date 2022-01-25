@@ -25,11 +25,15 @@
 }
 
 .div1_primary{
-    color: blueviolet;
     background-color: #e2e8f0;
 }
 .div1_primary img{
+    opacity: 100%;
     margin-right: 15px;
+}
+.div1_primary span{
+    font-weight: bold;
+    color: blueviolet;
 }
 
 
