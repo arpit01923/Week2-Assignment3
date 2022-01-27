@@ -1,15 +1,11 @@
 *{
-    padding: 0px;
-    margin: 0px;
     box-sizing: border-box;
 }
 
 .container{
-    display: flex;
-    flex-direction: column;
-    width: 40%;
-    height: 250px;
-    margin: auto;
+    display: block;
+    width: 20%;
+    height: 300px;
     padding: 10px;
     border: 1px solid  #e2e8f0;
 }
@@ -26,36 +22,22 @@
 
 .div1_primary{
     background-color: #e2e8f0;
+    padding: 10px 5px;
 }
-.div1_primary img{
-    opacity: 100%;
-    margin-right: 15px;
+.div1_primary i{
+    color: blueviolet;
 }
 .div1_primary span{
     font-weight: bold;
     color: blueviolet;
+    padding-left: 10px;
+}
+
+.div2_secondary,.div3_secondary,.div4_secondary{
+    padding: 10px 5px;
 }
 
 
-.div2_secondary{
-    margin: 15px 0px;
-}
-.div2_secondary img{
-    margin-right: 15px;
-}
-
-
-.div3_secondary{
-    margin: 15px 0px;
-}
-.div3_secondary img{
-    margin-right: 15px;
-}
-
-
-.div4_secondary{
-    margin: 15px 0px;
-}
-.div4_secondary img{
-    margin-right: 15px;
+.div2_secondary span,.div3_secondary span,.div4_secondary span{
+    padding-left: 10px;
 }
